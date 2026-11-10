@@ -1,4 +1,4 @@
-## Djia di sini
+## This is Djia, Bro
 
 Ngoding web sama Android. Kadang iseng bikin dunia 3D di browser, cuma karena penasaran bisa apa nggak.
 
