@@ -1,6 +1,10 @@
-## This is Djia, Bro
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=This+is+Djia%2C+Bro;Web+%26+Android+dev+%F0%9F%87%AE%F0%9F%87%A9;Iseng+bikin+dunia+3D+di+browser" alt="This is Djia, Bro" />
 
 Ngoding web sama Android. Kadang iseng bikin dunia 3D di browser, cuma karena penasaran bisa apa nggak.
+
+</div>
 
 ### 🔨 Fokus
 - Aplikasi web & Android yang ringan dan enak dipakai
@@ -8,19 +12,14 @@ Ngoding web sama Android. Kadang iseng bikin dunia 3D di browser, cuma karena pe
 - Animasi & dunia 3D interaktif di browser
 
 ### 🧰 Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,androidstudio,threejs,cloudflare,git,vscode,linux&perline=11" alt="Tools" />
+</p>
 
 ### 📊 Statistik
 <p>
-  <img height="150" src="https://streak-stats.demolab.com?user=ky-Mind&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=ky-Mind&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ### 📫 Kontak
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kymind-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/kymind)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kymind-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kymind)
