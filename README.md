@@ -1,7 +1,6 @@
-<h1 align="center">Hai, saya Djia 👋</h1>
-<p align="center">Developer web & Android dari Indonesia · suka bikin aplikasi Islami, web klinik, dan animasi 3D di browser</p>
+## Djia di sini
 
----
+Ngoding web sama Android. Kadang iseng bikin dunia 3D di browser, cuma karena penasaran bisa apa nggak.
 
 ### 🔨 Fokus
 - Aplikasi web & Android yang ringan dan enak dipakai
@@ -19,10 +18,6 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ### 📊 Statistik
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ky-Mind&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ky-Mind&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 <p>
   <img height="150" src="https://streak-stats.demolab.com?user=ky-Mind&theme=tokyonight&hide_border=true" />
 </p>
