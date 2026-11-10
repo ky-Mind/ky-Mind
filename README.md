@@ -1,4 +1,4 @@
-<h1 align="center">Hai, saya KyMInd 👋</h1>
+<h1 align="center">Hai, saya Djia 👋</h1>
 <p align="center">Developer web & Android dari Indonesia · suka bikin aplikasi Islami, web klinik, dan animasi 3D di browser</p>
 
 ---
