@@ -21,5 +21,10 @@ Ngoding web sama Android. Kadang iseng bikin dunia 3D di browser, cuma karena pe
   <img height="160" src="https://streak-stats.demolab.com?user=ky-Mind&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ky-Mind/ky-Mind/output/github-snake-dark.svg" />
+  <img alt="Ular kontribusi" src="https://raw.githubusercontent.com/ky-Mind/ky-Mind/output/github-snake.svg" />
+</picture>
+
 ### 📫 Kontak
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kymind-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kymind)
