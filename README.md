@@ -23,6 +23,9 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ky-Mind&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ky-Mind&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+<p>
+  <img height="150" src="https://streak-stats.demolab.com?user=ky-Mind&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 📫 Kontak
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kymind-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/kymind)
