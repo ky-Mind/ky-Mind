@@ -4,7 +4,7 @@
 
 Ngoding web sama Android. Kadang iseng bikin dunia 3D di browser, cuma karena penasaran bisa apa nggak.
 
-📱 Aplikasi web & Android &nbsp;·&nbsp; 🌐 Website responsif &nbsp;·&nbsp; 🧊 Dunia 3D di browser
+`> web & android`&nbsp;&nbsp;`> website responsif`&nbsp;&nbsp;`> dunia 3D di browser`
 
 <br/>
 
