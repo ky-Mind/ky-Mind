@@ -24,6 +24,6 @@ Ngoding web sama Android. Kadang iseng bikin dunia 3D di browser, cuma karena pe
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/kymind"><img src="https://img.shields.io/badge/LinkedIn-kymind-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://kymind.web.id">Website</a> · <a href="https://www.linkedin.com/in/kymind/">LinkedIn</a> · <a href="https://saweria.co/kymind">Saweria</a>
 
 </div>
