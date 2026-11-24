@@ -22,8 +22,5 @@ Ngoding web sama Android. Kadang iseng bikin dunia 3D di browser, cuma karena pe
   <img width="100%" alt="Ular kontribusi" src="https://raw.githubusercontent.com/ky-Mind/ky-Mind/output/github-snake.svg" />
 </picture>
 
-<br/><br/>
-
-<a href="https://kymind.web.id">Website</a> · <a href="https://www.linkedin.com/in/muhammadhilmiazkiarahman/">LinkedIn</a> · <a href="https://saweria.co/kymind">Saweria</a>
 
 </div>
