@@ -24,6 +24,7 @@ Ngoding web sama Android. Kadang iseng bikin dunia 3D di browser, cuma karena pe
 
 <br/>
 
-<a href="https://kymind.web.id">Website</a> · <a href="https://www.linkedin.com/in/muhammadhilmiazkiarahman/">LinkedIn</a> · <a href="https://saweria.co/kymind">Saweria</a>
+ᮍᮧᮓᮤᮀ ᮠᮩᮜ, ᮞᮛᮦ ᮈᮀᮊᮦ<br/>
+<sub><i>ngoding heula, saré engké.</i></sub>
 
 </div>
