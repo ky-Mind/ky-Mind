@@ -25,5 +25,6 @@ Ngoding web sama Android. Kadang iseng bikin dunia 3D di browser, cuma karena pe
 <br/><br/>
 
 <a href="https://linkedin.com/in/kymind"><img src="https://img.shields.io/badge/LinkedIn-kymind-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://saweria.co/kymind"><img src="https://img.shields.io/badge/Traktir_Kopi-Saweria-FAAE2B?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Traktir kopi di Saweria" /></a>
 
 </div>
